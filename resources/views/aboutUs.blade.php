@@ -7,11 +7,10 @@
     <title>Document</title>
 </head>
 <body>
-
 <a href="">Home</a>
-    <a href="">about us</a>
-    <a href="">contatti</a>
-    
-    <h1>Hello world</h1>
+    <a href=>about us</a>
+    <a href="{{route('contatti')}}">contatti</a>
+
+    <h1>about Us</h1>
 </body>
 </html>
